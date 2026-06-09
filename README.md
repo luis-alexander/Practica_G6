@@ -22,3 +22,13 @@ Mediante el comando comprobamos la correcta configuración del compose creado.
 
 <img width="1150" height="558" alt="image" src="https://github.com/user-attachments/assets/740150b5-0b50-4bb4-b31c-d5db22bbebca" />
 
+# Comando docker compose y docker ps
+
+<img width="1210" height="286" alt="image" src="https://github.com/user-attachments/assets/f6baa388-a423-42b0-a6bd-f4d65fc50367" />
+
+# Contendor corriendo desde Docker Desktop 
+
+Se presenta el entorno de desarrollo basado en Docker que levanta un contenedor de PostgreSQL 17 llamado ciber_grupo6.
+La configuración está centralizada en un archivo .env, que mapea el puerto 5433 de la máquina hacia el puerto interno de la base de datos y gestiona la persistencia de datos mediante volúmenes.
+
+<img width="1056" height="121" alt="image" src="https://github.com/user-attachments/assets/c8213a28-bd4c-4909-aa2a-4cd8c47cf326" />
