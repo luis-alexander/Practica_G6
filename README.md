@@ -1,5 +1,12 @@
 ## Practica_G6
 
+# Configuración .env
+
+El contenido abierto de ese archivo .env. Contiene cinco líneas de texto que definen variables de configuración para una base de datos PostgreSQL (POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB, POSTGRES_PORT y POSTGRES_HOST), con valores especificados.
+
+<img width="1071" height="372" alt="image" src="https://github.com/user-attachments/assets/c06e0a13-fcfc-4232-b011-12532ef0e02a" />
+
+
 # Configuración docker compose 
 Este archivo levanta y configura un contenedor de base de datos PostgreSQL versión 17.
 - Nombre del contenedor: Se llamará ciber_grupo6.
