@@ -32,3 +32,7 @@ Se presenta el entorno de desarrollo basado en Docker que levanta un contenedor 
 La configuración está centralizada en un archivo .env, que mapea el puerto 5433 de la máquina hacia el puerto interno de la base de datos y gestiona la persistencia de datos mediante volúmenes.
 
 <img width="1056" height="121" alt="image" src="https://github.com/user-attachments/assets/c8213a28-bd4c-4909-aa2a-4cd8c47cf326" />
+
+# Creación de base de datos postgres
+
+<img width="1327" height="675" alt="image" src="https://github.com/user-attachments/assets/dbda5b81-9a2a-4c3b-8f6b-38bc2f2bc609" />
