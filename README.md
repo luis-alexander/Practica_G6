@@ -14,7 +14,11 @@ Este archivo levanta y configura un contenedor de base de datos PostgreSQL versi
 - Usuario (POSTGRES_USER)
 - Contraseña (POSTGRES_PASSWORD)
 - Nombre de la base de datos (POSTGRES_DB)
-- Puertos: Redirecciona un puerto de tu máquina local (definido por la variable ${POSTGRES_PORT}) al puerto interno por defecto de Postgres (5432).
+- Puertos: Redirecciona un puerto de tu máquina local (definido por la variable ${POSTGRES_PORT}) al puerto interno por defecto de Postgres (5433).
 
 Persistencia de datos (Volúmenes): Crea un volumen llamado postgres_data. Esto es crucial porque asegura que los datos de tu base de datos no se borren si el contenedor se detiene o se destruye.
-<img width="687" height="650" alt="image" src="https://github.com/user-attachments/assets/494b1f72-77ab-4d9b-b58b-ce14632d6d36" />
+<img width="494" height="533" alt="image" src="https://github.com/user-attachments/assets/48056ab3-2bc7-4683-80ad-c6aeb515017f" />
+
+Mediante el comando comprobamos la correcta configuración del compose creado. 
+<img width="1150" height="558" alt="image" src="https://github.com/user-attachments/assets/740150b5-0b50-4bb4-b31c-d5db22bbebca" />
+
