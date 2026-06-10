@@ -36,3 +36,19 @@ La configuración está centralizada en un archivo .env, que mapea el puerto 543
 # Creación de base de datos postgres
 
 <img width="1327" height="675" alt="image" src="https://github.com/user-attachments/assets/dbda5b81-9a2a-4c3b-8f6b-38bc2f2bc609" />
+
+# Creación de Dataframes
+
+Para la realización de dataframes se hizo uso de los 3 recursos de datos (csv, json y base de datos local)
+
+1. Dataframe usando CSV: CSVDataframe.ipynb
+
+<img width="1591" height="791" alt="image" src="https://github.com/user-attachments/assets/5817a5c6-3a67-4169-904b-cfbf4b8bb706" />
+   
+2. Dataframe usando JSON: JSONdataframe.ipynb
+
+<img width="1602" height="850" alt="image" src="https://github.com/user-attachments/assets/f69d1b90-5ffd-4cb0-877d-45092dd62c66" />
+
+3. Dataframe usando BDD local: BDataframe.ipynb
+
+<img width="1826" height="817" alt="image" src="https://github.com/user-attachments/assets/cc0cb7a1-5cf2-4cad-8b79-c41afd910092" />
